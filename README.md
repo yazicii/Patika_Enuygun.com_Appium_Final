@@ -1,13 +1,13 @@
 # Patika_Enuygun.com_Appium_Final
 
 ## Appium Senaryoları
-![Senaryo_Link](https://github.com/yazicii/Patika_Enuygun.com_Appium_Final/blob/main/src/test/resources/features/appiumPatikaTestScenario.feature)
+[Senaryo_Link](https://github.com/yazicii/Patika_Enuygun.com_Appium_Final/blob/main/src/test/resources/features/appiumPatikaTestScenario.feature)
 
 ## Appium Apk
-![Appium_Apk](https://github.com/yazicii/Patika_Enuygun.com_Appium_Final/blob/main/src/test/resources/apps/patikaappium.apk)
+[Appium_Apk](https://github.com/yazicii/Patika_Enuygun.com_Appium_Final/blob/main/src/test/resources/apps/patikaappium.apk)
 
 ## Android Cihaz Capabilities
-![Android_Capabilities](https://github.com/yazicii/Patika_Enuygun.com_Appium_Final/blob/main/src/test/resources/capabilities/android-oreo.json)
+[Android_Capabilities](https://github.com/yazicii/Patika_Enuygun.com_Appium_Final/blob/main/src/test/resources/capabilities/android-oreo.json)
 
 ## Allure Result
 ![image](https://user-images.githubusercontent.com/101544408/185833149-14f2f542-60a7-4f79-a8c3-b146863d0d2d.png)
