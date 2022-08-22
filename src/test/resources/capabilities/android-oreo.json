@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "oreo",
+  "appium:automationName": "UiAutomator2",
+  "appium:udid": "emulator-5556",
+  "appium:avd": "Pixel_3a_API_26",
+  "appium:fastReset": true,
+  "appium:newCommandTimeout": 5
+}
