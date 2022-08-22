@@ -6,6 +6,9 @@
 ## Appium Apk
 [Appium_Apk](https://github.com/yazicii/Patika_Enuygun.com_Appium_Final/blob/main/src/test/resources/apps/patikaappium.apk)
 
+![image](https://user-images.githubusercontent.com/101544408/185834095-8c0a8234-9f1e-4881-95f9-b6579ea02ba7.png)
+
+
 ## Android Cihaz Capabilities
 [Android_Capabilities](https://github.com/yazicii/Patika_Enuygun.com_Appium_Final/blob/main/src/test/resources/capabilities/android-oreo.json)
 
